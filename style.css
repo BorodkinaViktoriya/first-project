@@ -1,4 +1,9 @@
 .header{
     height: 95px;
   }
-  
+  div{
+    border-style:solid;
+    border-width: 1px;
+    border-color: red;
+  }
+    
